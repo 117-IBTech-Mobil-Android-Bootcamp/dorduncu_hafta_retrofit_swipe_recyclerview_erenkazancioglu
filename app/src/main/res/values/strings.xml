@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">patikadevweek4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Add_Task_Title">Add new task to do list</string>
+    <string name="Add_Task_Positive_Button_Text">Add</string>
+    <string name="Add_Task_Negative_Button_Text">Dismiss</string>
+    <string name="Warning_Title_Text">Warning</string>
+    <string name="Warning_Yes_Text">Yes</string>
+    <string name="Warning_No_Text">No</string>
+    <string name="Success_Login_Text">Succesfuly Login</string>
+    <string name="Warning_Text">Are you sure ? you want exit !</string>
+
+</resources>
